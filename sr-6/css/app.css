@@ -1,0 +1,104 @@
+﻿body{      
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, blue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, blue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, blue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, blue); /* Standard syntax */
+}
+
+.about-wrapper{
+	padding-top: -100px;
+}
+
+ 
+.wrapper{
+ width:850px;
+ margin:0 auto;
+
+}
+
+.social-wrapper{
+	width:235px;
+	margin:0 auto;
+	padding-top:20px;
+}
+
+#slider{
+	height:310px;
+	padding-bottom:30px;
+	
+}
+
+#keys{
+ width:350px;
+ margin:0 auto;
+ padding-top: 10px;	
+}
+
+.me{
+ width: 362px;
+ margin:cente;
+ height: 850px;
+
+ padding-top: -10px;
+
+ 
+}
+
+.me2{
+ width: 850px;
+ height: 850px;
+ margin:0 auto;
+ padding-top: 10px;
+
+ 
+}
+
+
+
+
+
+#vids{
+ width: 350;
+ height: px;
+ margin: auto;
+ padding-top: 10px;
+ }
+
+.slider2{
+	weight:310px;
+	padding-bottom:30px;
+	
+}
+ 
+ 
+ #load{
+ padding-top: 10px;
+ padding-bottom: 37x;
+
+ }
+
+#keys2{
+ width:500px;
+ margin:0 auto;
+ padding-top: 2px;	
+}
+ 
+ 
+ 
+ .feet1{
+ width:300px;
+ margin:center;
+ padding-top: 10px;	
+}
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
